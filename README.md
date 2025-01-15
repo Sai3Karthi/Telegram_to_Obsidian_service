@@ -22,6 +22,8 @@ A Windows service that syncs Telegram group messages to Obsidian markdown files.
 ## Installation
 
 1. Clone this repository:
-   ```js
-function () { return "This code is highlighted as Javascript!"}
-```
+   ```git
+   git clone https://github.com/yourusername/telegram-diary-bot
+   cd telegram-diary-bot
+```/
+
