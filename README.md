@@ -98,8 +98,8 @@ python telegram_service.py remove
 ## Logging
 
 Logs are stored in:
-- Service logs: `E:/cursor/telegram_service.log`
-- Bot logs: `E:/cursor/bot.log`
+- Service logs: `telegram_service.log`
+- Bot logs: `bot.log`
 
 You can modify log paths in both `main.py` and `telegram_service.py`.
 
