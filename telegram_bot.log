@@ -1,0 +1,1698 @@
+2025-03-08 22:32:00 - INFO - === Starting bot in direct mode ===
+2025-03-08 22:32:00 - INFO - Current directory: E:\TGOBSYNC
+2025-03-08 22:32:00 - INFO - Python version: 3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 64 bit (AMD64)]
+2025-03-08 22:32:00 - INFO - Bot token: 7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q
+2025-03-08 22:32:00 - INFO - Group ID: -4757217272
+2025-03-08 22:32:00 - INFO - Starting Telegram bot...
+2025-03-08 22:32:00 - INFO - Testing bot token...
+2025-03-08 22:32:02 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getMe "HTTP/1.1 200 OK"
+2025-03-08 22:32:02 - INFO - Bot connection successful - @balaeforbot682_bot
+2025-03-08 22:32:02 - INFO - Initializing application...
+2025-03-08 22:32:02 - INFO - Creating directories...
+2025-03-08 22:32:02 - INFO - Adding handlers...
+2025-03-08 22:32:02 - INFO - Initializing application...
+2025-03-08 22:32:03 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getMe "HTTP/1.1 200 OK"
+2025-03-08 22:32:03 - INFO - Starting application...
+2025-03-08 22:32:03 - INFO - Application started
+2025-03-08 22:32:03 - INFO - Bot started, waiting for messages...
+2025-03-08 22:32:03 - INFO - Waiting for updates...
+2025-03-08 22:32:03 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:32:03 - INFO - Received 12 updates
+2025-03-08 22:32:03 - INFO - Processing update ID: 69211670
+2025-03-08 22:32:03 - INFO - Processing message: Today , I was fully out of class, I was roaming without a proper job
+2025-03-08 22:32:03 - INFO - Original timestamp: 2025-03-07 18:32:41+00:00
+2025-03-08 22:32:03 - INFO - Adding to buffer: Today , I was fully out of class, I was roaming without a proper job at time 2025-03-07 18:32:41+00:00
+2025-03-08 22:32:03 - INFO - Adding message to buffer - Chat ID: -4757217272, Text: Today , I was fully out of class, I was roaming without a proper job, Time: 2025-03-07 18:32:41+00:00
+2025-03-08 22:32:03 - INFO - Processing update ID: 69211671
+2025-03-08 22:32:03 - INFO - Processing message: She was too depressed today, ive never seen her being like this
+I tried my best to get it out of her
+2025-03-08 22:32:03 - INFO - Original timestamp: 2025-03-07 18:33:09+00:00
+2025-03-08 22:32:03 - INFO - Adding to buffer: She was too depressed today, ive never seen her being like this
+I tried my best to get it out of her at time 2025-03-07 18:33:09+00:00
+2025-03-08 22:32:03 - INFO - Adding message to buffer - Chat ID: -4757217272, Text: She was too depressed today, ive never seen her being like this
+I tried my best to get it out of her, Time: 2025-03-07 18:33:09+00:00
+2025-03-08 22:32:03 - INFO - Processing update ID: 69211672
+2025-03-08 22:32:03 - INFO - Processing message: I couldn't
+2025-03-08 22:32:03 - INFO - Original timestamp: 2025-03-07 18:33:12+00:00
+2025-03-08 22:32:03 - INFO - Adding to buffer: I couldn't at time 2025-03-07 18:33:12+00:00
+2025-03-08 22:32:03 - INFO - Adding message to buffer - Chat ID: -4757217272, Text: I couldn't, Time: 2025-03-07 18:33:12+00:00
+2025-03-08 22:32:03 - INFO - Processing update ID: 69211673
+2025-03-08 22:32:03 - INFO - Processing message: So i asked her when she'll go home
+2025-03-08 22:32:03 - INFO - Original timestamp: 2025-03-07 18:33:18+00:00
+2025-03-08 22:32:03 - INFO - Adding to buffer: So i asked her when she'll go home at time 2025-03-07 18:33:18+00:00
+2025-03-08 22:32:03 - INFO - Adding message to buffer - Chat ID: -4757217272, Text: So i asked her when she'll go home, Time: 2025-03-07 18:33:18+00:00
+2025-03-08 22:32:03 - INFO - Processing update ID: 69211674
+2025-03-08 22:32:03 - INFO - Processing message: She said 3:20 because she has to go to hospital , so I said I'll come with her and she said "I'll ask my parents and if they agree I'll let you come" that was hurtful
+2025-03-08 22:32:03 - INFO - Original timestamp: 2025-03-07 18:34:22+00:00
+2025-03-08 22:32:03 - INFO - Adding to buffer: She said 3:20 because she has to go to hospital , so I said I'll come with her and she said "I'll ask my parents and if they agree I'll let you come" that was hurtful at time 2025-03-07 18:34:22+00:00
+2025-03-08 22:32:03 - INFO - Adding message to buffer - Chat ID: -4757217272, Text: She said 3:20 because she has to go to hospital , so I said I'll come with her and she said "I'll ask my parents and if they agree I'll let you come" that was hurtful, Time: 2025-03-07 18:34:22+00:00
+2025-03-08 22:32:03 - INFO - Processing update ID: 69211675
+2025-03-08 22:32:03 - INFO - Processing message: But I still went with her, i was there with her till the end
+She cried and we spoke
+2025-03-08 22:32:03 - INFO - Original timestamp: 2025-03-07 18:34:41+00:00
+2025-03-08 22:32:03 - INFO - Adding to buffer: But I still went with her, i was there with her till the end
+She cried and we spoke at time 2025-03-07 18:34:41+00:00
+2025-03-08 22:32:03 - INFO - Adding message to buffer - Chat ID: -4757217272, Text: But I still went with her, i was there with her till the end
+She cried and we spoke, Time: 2025-03-07 18:34:41+00:00
+2025-03-08 22:32:03 - INFO - Processing update ID: 69211676
+2025-03-08 22:32:03 - INFO - Processing message: She had misunderstood many things
+2025-03-08 22:32:03 - INFO - Original timestamp: 2025-03-07 18:34:48+00:00
+2025-03-08 22:32:03 - INFO - Adding to buffer: She had misunderstood many things at time 2025-03-07 18:34:48+00:00
+2025-03-08 22:32:03 - INFO - Adding message to buffer - Chat ID: -4757217272, Text: She had misunderstood many things, Time: 2025-03-07 18:34:48+00:00
+2025-03-08 22:32:03 - INFO - Processing update ID: 69211677
+2025-03-08 22:32:03 - INFO - Processing message: After fixing we had a great time
+2025-03-08 22:32:03 - INFO - Original timestamp: 2025-03-07 18:34:52+00:00
+2025-03-08 22:32:03 - INFO - Adding to buffer: After fixing we had a great time at time 2025-03-07 18:34:52+00:00
+2025-03-08 22:32:03 - INFO - Adding message to buffer - Chat ID: -4757217272, Text: After fixing we had a great time, Time: 2025-03-07 18:34:52+00:00
+2025-03-08 22:32:03 - INFO - Processing update ID: 69211678
+2025-03-08 22:32:03 - INFO - Processing message: And then she left home
+2025-03-08 22:32:03 - INFO - Original timestamp: 2025-03-07 18:35:02+00:00
+2025-03-08 22:32:03 - INFO - Adding to buffer: And then she left home at time 2025-03-07 18:35:02+00:00
+2025-03-08 22:32:03 - INFO - Adding message to buffer - Chat ID: -4757217272, Text: And then she left home, Time: 2025-03-07 18:35:02+00:00
+2025-03-08 22:32:03 - INFO - Processing update ID: 69211679
+2025-03-08 22:32:05 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getFile "HTTP/1.1 200 OK"
+2025-03-08 22:32:05 - INFO - HTTP Request: GET https://api.telegram.org/file/bot7675657512%3AAAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/photos/file_28.jpg "HTTP/1.1 200 OK"
+2025-03-08 22:32:05 - INFO - Processing update ID: 69211680
+2025-03-08 22:32:05 - INFO - Processing message: Goodnight
+2025-03-08 22:32:05 - INFO - Original timestamp: 2025-03-07 22:33:50+00:00
+2025-03-08 22:32:05 - INFO - Adding to buffer: Goodnight at time 2025-03-07 22:33:50+00:00
+2025-03-08 22:32:05 - INFO - Adding message to buffer - Chat ID: -4757217272, Text: Goodnight, Time: 2025-03-07 22:33:50+00:00
+2025-03-08 22:32:05 - INFO - Processing update ID: 69211681
+2025-03-08 22:32:05 - INFO - Processing message: And we once again spoke for 1.45 hours today.
+2025-03-08 22:32:05 - INFO - Original timestamp: 2025-03-07 22:33:50+00:00
+2025-03-08 22:32:05 - INFO - Adding to buffer: And we once again spoke for 1.45 hours today. at time 2025-03-07 22:33:50+00:00
+2025-03-08 22:32:05 - INFO - Adding message to buffer - Chat ID: -4757217272, Text: And we once again spoke for 1.45 hours today., Time: 2025-03-07 22:33:50+00:00
+2025-03-08 22:32:05 - INFO - Waiting for updates...
+2025-03-08 22:32:36 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:32:36 - INFO - Received 0 updates
+2025-03-08 22:32:36 - INFO - Waiting for updates...
+2025-03-08 22:33:06 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:33:06 - INFO - Received 0 updates
+2025-03-08 22:33:06 - INFO - Waiting for updates...
+2025-03-08 22:33:36 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:33:36 - INFO - Received 0 updates
+2025-03-08 22:33:36 - INFO - Waiting for updates...
+2025-03-08 22:34:06 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:34:06 - INFO - Received 0 updates
+2025-03-08 22:34:06 - INFO - Waiting for updates...
+2025-03-08 22:34:36 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:34:36 - INFO - Received 0 updates
+2025-03-08 22:34:36 - INFO - Waiting for updates...
+2025-03-08 22:35:06 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:35:06 - INFO - Received 0 updates
+2025-03-08 22:35:06 - INFO - Waiting for updates...
+2025-03-08 22:35:37 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:35:37 - INFO - Received 0 updates
+2025-03-08 22:35:37 - INFO - Waiting for updates...
+2025-03-08 22:36:07 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:36:07 - INFO - Received 0 updates
+2025-03-08 22:36:07 - INFO - Waiting for updates...
+2025-03-08 22:36:37 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:36:37 - INFO - Received 0 updates
+2025-03-08 22:36:37 - INFO - Waiting for updates...
+2025-03-08 22:37:07 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:37:07 - INFO - Received 0 updates
+2025-03-08 22:37:07 - INFO - Waiting for updates...
+2025-03-08 22:37:37 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:37:37 - INFO - Received 0 updates
+2025-03-08 22:37:37 - INFO - Waiting for updates...
+2025-03-08 22:38:08 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:38:08 - INFO - Received 0 updates
+2025-03-08 22:38:08 - INFO - Waiting for updates...
+2025-03-08 22:38:38 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:38:38 - INFO - Received 0 updates
+2025-03-08 22:38:38 - INFO - Waiting for updates...
+2025-03-08 22:39:08 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:39:08 - INFO - Received 0 updates
+2025-03-08 22:39:08 - INFO - Waiting for updates...
+2025-03-08 22:39:38 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:39:38 - INFO - Received 0 updates
+2025-03-08 22:39:38 - INFO - Waiting for updates...
+2025-03-08 22:40:08 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:40:08 - INFO - Received 0 updates
+2025-03-08 22:40:08 - INFO - Waiting for updates...
+2025-03-08 22:40:39 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:40:39 - INFO - Received 0 updates
+2025-03-08 22:40:39 - INFO - Waiting for updates...
+2025-03-08 22:41:09 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:41:09 - INFO - Received 0 updates
+2025-03-08 22:41:09 - INFO - Waiting for updates...
+2025-03-08 22:41:39 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:41:39 - INFO - Received 0 updates
+2025-03-08 22:41:39 - INFO - Waiting for updates...
+2025-03-08 22:42:09 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:42:09 - INFO - Received 0 updates
+2025-03-08 22:42:09 - INFO - Waiting for updates...
+2025-03-08 22:42:39 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:42:39 - INFO - Received 0 updates
+2025-03-08 22:42:39 - INFO - Waiting for updates...
+2025-03-08 22:43:10 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:43:10 - INFO - Received 0 updates
+2025-03-08 22:43:10 - INFO - Waiting for updates...
+2025-03-08 22:43:40 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:43:40 - INFO - Received 0 updates
+2025-03-08 22:43:40 - INFO - Waiting for updates...
+2025-03-08 22:44:10 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:44:10 - INFO - Received 0 updates
+2025-03-08 22:44:10 - INFO - Waiting for updates...
+2025-03-08 22:44:40 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:44:40 - INFO - Received 0 updates
+2025-03-08 22:44:40 - INFO - Waiting for updates...
+2025-03-08 22:45:10 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:45:10 - INFO - Received 0 updates
+2025-03-08 22:45:10 - INFO - Waiting for updates...
+2025-03-08 22:45:40 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:45:40 - INFO - Received 0 updates
+2025-03-08 22:45:40 - INFO - Waiting for updates...
+2025-03-08 22:46:11 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:46:11 - INFO - Received 0 updates
+2025-03-08 22:46:11 - INFO - Waiting for updates...
+2025-03-08 22:46:41 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:46:41 - INFO - Received 0 updates
+2025-03-08 22:46:41 - INFO - Waiting for updates...
+2025-03-08 22:47:11 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:47:11 - INFO - Received 0 updates
+2025-03-08 22:47:11 - INFO - Waiting for updates...
+2025-03-08 22:47:41 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:47:41 - INFO - Received 0 updates
+2025-03-08 22:47:41 - INFO - Waiting for updates...
+2025-03-08 22:48:11 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:48:11 - INFO - Received 0 updates
+2025-03-08 22:48:11 - INFO - Waiting for updates...
+2025-03-08 22:48:42 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:48:42 - INFO - Received 0 updates
+2025-03-08 22:48:42 - INFO - Waiting for updates...
+2025-03-08 22:49:12 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:49:12 - INFO - Received 0 updates
+2025-03-08 22:49:12 - INFO - Waiting for updates...
+2025-03-08 22:49:42 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:49:42 - INFO - Received 0 updates
+2025-03-08 22:49:42 - INFO - Waiting for updates...
+2025-03-08 22:50:12 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:50:12 - INFO - Received 0 updates
+2025-03-08 22:50:12 - INFO - Waiting for updates...
+2025-03-08 22:50:42 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:50:42 - INFO - Received 0 updates
+2025-03-08 22:50:42 - INFO - Waiting for updates...
+2025-03-08 22:51:13 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:51:13 - INFO - Received 0 updates
+2025-03-08 22:51:13 - INFO - Waiting for updates...
+2025-03-08 22:51:43 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:51:43 - INFO - Received 0 updates
+2025-03-08 22:51:43 - INFO - Waiting for updates...
+2025-03-08 22:52:13 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:52:13 - INFO - Received 0 updates
+2025-03-08 22:52:13 - INFO - Waiting for updates...
+2025-03-08 22:52:43 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:52:43 - INFO - Received 0 updates
+2025-03-08 22:52:43 - INFO - Waiting for updates...
+2025-03-08 22:53:13 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:53:13 - INFO - Received 0 updates
+2025-03-08 22:53:13 - INFO - Waiting for updates...
+2025-03-08 22:53:44 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:53:44 - INFO - Received 0 updates
+2025-03-08 22:53:44 - INFO - Waiting for updates...
+2025-03-08 22:54:14 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:54:14 - INFO - Received 0 updates
+2025-03-08 22:54:14 - INFO - Waiting for updates...
+2025-03-08 22:54:44 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:54:44 - INFO - Received 0 updates
+2025-03-08 22:54:44 - INFO - Waiting for updates...
+2025-03-08 22:55:14 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:55:14 - INFO - Received 0 updates
+2025-03-08 22:55:14 - INFO - Waiting for updates...
+2025-03-08 22:55:44 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:55:44 - INFO - Received 0 updates
+2025-03-08 22:55:44 - INFO - Waiting for updates...
+2025-03-08 22:56:15 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:56:15 - INFO - Received 0 updates
+2025-03-08 22:56:15 - INFO - Waiting for updates...
+2025-03-08 22:56:45 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:56:45 - INFO - Received 0 updates
+2025-03-08 22:56:45 - INFO - Waiting for updates...
+2025-03-08 22:57:15 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:57:15 - INFO - Received 0 updates
+2025-03-08 22:57:15 - INFO - Waiting for updates...
+2025-03-08 22:57:45 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:57:45 - INFO - Received 0 updates
+2025-03-08 22:57:45 - INFO - Waiting for updates...
+2025-03-08 22:58:15 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:58:15 - INFO - Received 0 updates
+2025-03-08 22:58:15 - INFO - Waiting for updates...
+2025-03-08 22:58:46 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:58:46 - INFO - Received 0 updates
+2025-03-08 22:58:46 - INFO - Waiting for updates...
+2025-03-08 22:59:16 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:59:16 - INFO - Received 0 updates
+2025-03-08 22:59:16 - INFO - Waiting for updates...
+2025-03-08 22:59:46 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 22:59:46 - INFO - Received 0 updates
+2025-03-08 22:59:46 - INFO - Waiting for updates...
+2025-03-08 23:00:16 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:00:16 - INFO - Received 0 updates
+2025-03-08 23:00:16 - INFO - Waiting for updates...
+2025-03-08 23:00:46 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:00:46 - INFO - Received 0 updates
+2025-03-08 23:00:46 - INFO - Waiting for updates...
+2025-03-08 23:01:16 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:01:16 - INFO - Received 0 updates
+2025-03-08 23:01:16 - INFO - Waiting for updates...
+2025-03-08 23:01:47 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:01:47 - INFO - Received 0 updates
+2025-03-08 23:01:47 - INFO - Waiting for updates...
+2025-03-08 23:02:17 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:02:17 - INFO - Received 0 updates
+2025-03-08 23:02:17 - INFO - Waiting for updates...
+2025-03-08 23:02:47 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:02:47 - INFO - Received 0 updates
+2025-03-08 23:02:47 - INFO - Waiting for updates...
+2025-03-08 23:03:17 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:03:17 - INFO - Received 0 updates
+2025-03-08 23:03:17 - INFO - Waiting for updates...
+2025-03-08 23:03:47 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:03:47 - INFO - Received 0 updates
+2025-03-08 23:03:47 - INFO - Waiting for updates...
+2025-03-08 23:04:18 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:04:18 - INFO - Received 0 updates
+2025-03-08 23:04:18 - INFO - Waiting for updates...
+2025-03-08 23:04:48 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:04:48 - INFO - Received 0 updates
+2025-03-08 23:04:48 - INFO - Waiting for updates...
+2025-03-08 23:05:18 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:05:18 - INFO - Received 0 updates
+2025-03-08 23:05:18 - INFO - Waiting for updates...
+2025-03-08 23:05:48 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:05:48 - INFO - Received 0 updates
+2025-03-08 23:05:48 - INFO - Waiting for updates...
+2025-03-08 23:06:18 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:06:18 - INFO - Received 0 updates
+2025-03-08 23:06:18 - INFO - Waiting for updates...
+2025-03-08 23:06:48 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:06:48 - INFO - Received 0 updates
+2025-03-08 23:06:48 - INFO - Waiting for updates...
+2025-03-08 23:07:19 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:07:19 - INFO - Received 0 updates
+2025-03-08 23:07:19 - INFO - Waiting for updates...
+2025-03-08 23:07:49 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:07:49 - INFO - Received 0 updates
+2025-03-08 23:07:49 - INFO - Waiting for updates...
+2025-03-08 23:08:19 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:08:19 - INFO - Received 0 updates
+2025-03-08 23:08:19 - INFO - Waiting for updates...
+2025-03-08 23:08:49 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:08:49 - INFO - Received 0 updates
+2025-03-08 23:08:49 - INFO - Waiting for updates...
+2025-03-08 23:09:19 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:09:19 - INFO - Received 0 updates
+2025-03-08 23:09:19 - INFO - Waiting for updates...
+2025-03-08 23:09:50 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:09:50 - INFO - Received 0 updates
+2025-03-08 23:09:50 - INFO - Waiting for updates...
+2025-03-08 23:10:20 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:10:20 - INFO - Received 0 updates
+2025-03-08 23:10:20 - INFO - Waiting for updates...
+2025-03-08 23:10:50 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:10:50 - INFO - Received 0 updates
+2025-03-08 23:10:50 - INFO - Waiting for updates...
+2025-03-08 23:11:20 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:11:20 - INFO - Received 0 updates
+2025-03-08 23:11:20 - INFO - Waiting for updates...
+2025-03-08 23:11:50 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:11:50 - INFO - Received 0 updates
+2025-03-08 23:11:50 - INFO - Waiting for updates...
+2025-03-08 23:12:21 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:12:21 - INFO - Received 0 updates
+2025-03-08 23:12:21 - INFO - Waiting for updates...
+2025-03-08 23:12:51 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:12:51 - INFO - Received 0 updates
+2025-03-08 23:12:51 - INFO - Waiting for updates...
+2025-03-08 23:13:21 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:13:21 - INFO - Received 0 updates
+2025-03-08 23:13:21 - INFO - Waiting for updates...
+2025-03-08 23:13:51 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:13:51 - INFO - Received 0 updates
+2025-03-08 23:13:51 - INFO - Waiting for updates...
+2025-03-08 23:14:21 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:14:21 - INFO - Received 0 updates
+2025-03-08 23:14:21 - INFO - Waiting for updates...
+2025-03-08 23:14:52 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:14:52 - INFO - Received 0 updates
+2025-03-08 23:14:52 - INFO - Waiting for updates...
+2025-03-08 23:15:22 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:15:22 - INFO - Received 0 updates
+2025-03-08 23:15:22 - INFO - Waiting for updates...
+2025-03-08 23:15:52 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:15:52 - INFO - Received 0 updates
+2025-03-08 23:15:52 - INFO - Waiting for updates...
+2025-03-08 23:16:22 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:16:22 - INFO - Received 0 updates
+2025-03-08 23:16:22 - INFO - Waiting for updates...
+2025-03-08 23:16:52 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:16:52 - INFO - Received 0 updates
+2025-03-08 23:16:52 - INFO - Waiting for updates...
+2025-03-08 23:17:23 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:17:23 - INFO - Received 0 updates
+2025-03-08 23:17:23 - INFO - Waiting for updates...
+2025-03-08 23:17:53 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:17:53 - INFO - Received 0 updates
+2025-03-08 23:17:53 - INFO - Waiting for updates...
+2025-03-08 23:18:23 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:18:23 - INFO - Received 0 updates
+2025-03-08 23:18:23 - INFO - Waiting for updates...
+2025-03-08 23:18:53 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:18:53 - INFO - Received 0 updates
+2025-03-08 23:18:53 - INFO - Waiting for updates...
+2025-03-08 23:19:23 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:19:23 - INFO - Received 0 updates
+2025-03-08 23:19:23 - INFO - Waiting for updates...
+2025-03-08 23:19:54 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:19:54 - INFO - Received 0 updates
+2025-03-08 23:19:54 - INFO - Waiting for updates...
+2025-03-08 23:20:24 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:20:24 - INFO - Received 0 updates
+2025-03-08 23:20:24 - INFO - Waiting for updates...
+2025-03-08 23:20:54 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:20:54 - INFO - Received 0 updates
+2025-03-08 23:20:54 - INFO - Waiting for updates...
+2025-03-08 23:21:24 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:21:24 - INFO - Received 0 updates
+2025-03-08 23:21:24 - INFO - Waiting for updates...
+2025-03-08 23:21:54 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:21:54 - INFO - Received 0 updates
+2025-03-08 23:21:54 - INFO - Waiting for updates...
+2025-03-08 23:22:25 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:22:25 - INFO - Received 0 updates
+2025-03-08 23:22:25 - INFO - Waiting for updates...
+2025-03-08 23:22:55 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:22:55 - INFO - Received 0 updates
+2025-03-08 23:22:55 - INFO - Waiting for updates...
+2025-03-08 23:23:25 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:23:25 - INFO - Received 0 updates
+2025-03-08 23:23:25 - INFO - Waiting for updates...
+2025-03-08 23:23:56 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:23:56 - INFO - Received 0 updates
+2025-03-08 23:23:56 - INFO - Waiting for updates...
+2025-03-08 23:24:26 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:24:26 - INFO - Received 0 updates
+2025-03-08 23:24:26 - INFO - Waiting for updates...
+2025-03-08 23:24:56 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:24:56 - INFO - Received 0 updates
+2025-03-08 23:24:56 - INFO - Waiting for updates...
+2025-03-08 23:25:26 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:25:26 - INFO - Received 0 updates
+2025-03-08 23:25:26 - INFO - Waiting for updates...
+2025-03-08 23:25:56 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:25:56 - INFO - Received 0 updates
+2025-03-08 23:25:56 - INFO - Waiting for updates...
+2025-03-08 23:26:27 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:26:27 - INFO - Received 0 updates
+2025-03-08 23:26:27 - INFO - Waiting for updates...
+2025-03-08 23:26:57 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:26:57 - INFO - Received 0 updates
+2025-03-08 23:26:57 - INFO - Waiting for updates...
+2025-03-08 23:27:27 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:27:27 - INFO - Received 0 updates
+2025-03-08 23:27:27 - INFO - Waiting for updates...
+2025-03-08 23:27:57 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:27:57 - INFO - Received 0 updates
+2025-03-08 23:27:57 - INFO - Waiting for updates...
+2025-03-08 23:28:27 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:28:27 - INFO - Received 0 updates
+2025-03-08 23:28:27 - INFO - Waiting for updates...
+2025-03-08 23:28:58 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:28:58 - INFO - Received 0 updates
+2025-03-08 23:28:58 - INFO - Waiting for updates...
+2025-03-08 23:29:28 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:29:28 - INFO - Received 0 updates
+2025-03-08 23:29:28 - INFO - Waiting for updates...
+2025-03-08 23:29:58 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:29:58 - INFO - Received 0 updates
+2025-03-08 23:29:58 - INFO - Waiting for updates...
+2025-03-08 23:30:28 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:30:28 - INFO - Received 0 updates
+2025-03-08 23:30:28 - INFO - Waiting for updates...
+2025-03-08 23:30:58 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:30:58 - INFO - Received 0 updates
+2025-03-08 23:30:58 - INFO - Waiting for updates...
+2025-03-08 23:31:29 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:31:29 - INFO - Received 0 updates
+2025-03-08 23:31:29 - INFO - Waiting for updates...
+2025-03-08 23:31:59 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:31:59 - INFO - Received 0 updates
+2025-03-08 23:31:59 - INFO - Waiting for updates...
+2025-03-08 23:32:29 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:32:29 - INFO - Received 0 updates
+2025-03-08 23:32:29 - INFO - Waiting for updates...
+2025-03-08 23:32:59 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:32:59 - INFO - Received 0 updates
+2025-03-08 23:32:59 - INFO - Waiting for updates...
+2025-03-08 23:33:29 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:33:29 - INFO - Received 0 updates
+2025-03-08 23:33:29 - INFO - Waiting for updates...
+2025-03-08 23:34:00 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:34:00 - INFO - Received 0 updates
+2025-03-08 23:34:00 - INFO - Waiting for updates...
+2025-03-08 23:34:30 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:34:30 - INFO - Received 0 updates
+2025-03-08 23:34:30 - INFO - Waiting for updates...
+2025-03-08 23:35:00 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:35:00 - INFO - Received 0 updates
+2025-03-08 23:35:00 - INFO - Waiting for updates...
+2025-03-08 23:35:30 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:35:30 - INFO - Received 0 updates
+2025-03-08 23:35:30 - INFO - Waiting for updates...
+2025-03-08 23:36:00 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:36:00 - INFO - Received 0 updates
+2025-03-08 23:36:00 - INFO - Waiting for updates...
+2025-03-08 23:36:31 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:36:31 - INFO - Received 0 updates
+2025-03-08 23:36:31 - INFO - Waiting for updates...
+2025-03-08 23:37:01 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:37:01 - INFO - Received 0 updates
+2025-03-08 23:37:01 - INFO - Waiting for updates...
+2025-03-08 23:37:31 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:37:31 - INFO - Received 0 updates
+2025-03-08 23:37:31 - INFO - Waiting for updates...
+2025-03-08 23:38:01 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:38:01 - INFO - Received 0 updates
+2025-03-08 23:38:01 - INFO - Waiting for updates...
+2025-03-08 23:38:31 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:38:31 - INFO - Received 0 updates
+2025-03-08 23:38:31 - INFO - Waiting for updates...
+2025-03-08 23:39:02 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:39:02 - INFO - Received 0 updates
+2025-03-08 23:39:02 - INFO - Waiting for updates...
+2025-03-08 23:39:32 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:39:32 - INFO - Received 0 updates
+2025-03-08 23:39:32 - INFO - Waiting for updates...
+2025-03-08 23:40:02 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:40:02 - INFO - Received 0 updates
+2025-03-08 23:40:02 - INFO - Waiting for updates...
+2025-03-08 23:40:32 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:40:32 - INFO - Received 0 updates
+2025-03-08 23:40:32 - INFO - Waiting for updates...
+2025-03-08 23:41:02 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:41:02 - INFO - Received 0 updates
+2025-03-08 23:41:02 - INFO - Waiting for updates...
+2025-03-08 23:41:32 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:41:32 - INFO - Received 0 updates
+2025-03-08 23:41:32 - INFO - Waiting for updates...
+2025-03-08 23:42:03 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:42:03 - INFO - Received 0 updates
+2025-03-08 23:42:03 - INFO - Waiting for updates...
+2025-03-08 23:42:33 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:42:33 - INFO - Received 0 updates
+2025-03-08 23:42:33 - INFO - Waiting for updates...
+2025-03-08 23:43:03 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:43:03 - INFO - Received 0 updates
+2025-03-08 23:43:03 - INFO - Waiting for updates...
+2025-03-08 23:43:33 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:43:33 - INFO - Received 0 updates
+2025-03-08 23:43:33 - INFO - Waiting for updates...
+2025-03-08 23:44:04 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:44:04 - INFO - Received 0 updates
+2025-03-08 23:44:04 - INFO - Waiting for updates...
+2025-03-08 23:44:34 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:44:34 - INFO - Received 0 updates
+2025-03-08 23:44:34 - INFO - Waiting for updates...
+2025-03-08 23:45:04 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:45:04 - INFO - Received 0 updates
+2025-03-08 23:45:04 - INFO - Waiting for updates...
+2025-03-08 23:45:34 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:45:34 - INFO - Received 0 updates
+2025-03-08 23:45:34 - INFO - Waiting for updates...
+2025-03-08 23:46:04 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:46:04 - INFO - Received 0 updates
+2025-03-08 23:46:04 - INFO - Waiting for updates...
+2025-03-08 23:46:35 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:46:35 - INFO - Received 0 updates
+2025-03-08 23:46:35 - INFO - Waiting for updates...
+2025-03-08 23:47:05 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:47:05 - INFO - Received 0 updates
+2025-03-08 23:47:05 - INFO - Waiting for updates...
+2025-03-08 23:47:35 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:47:35 - INFO - Received 0 updates
+2025-03-08 23:47:35 - INFO - Waiting for updates...
+2025-03-08 23:48:05 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:48:05 - INFO - Received 0 updates
+2025-03-08 23:48:05 - INFO - Waiting for updates...
+2025-03-08 23:48:36 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:48:36 - INFO - Received 0 updates
+2025-03-08 23:48:36 - INFO - Waiting for updates...
+2025-03-08 23:49:06 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:49:06 - INFO - Received 0 updates
+2025-03-08 23:49:06 - INFO - Waiting for updates...
+2025-03-08 23:49:36 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:49:36 - INFO - Received 0 updates
+2025-03-08 23:49:36 - INFO - Waiting for updates...
+2025-03-08 23:50:07 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:50:07 - INFO - Received 0 updates
+2025-03-08 23:50:07 - INFO - Waiting for updates...
+2025-03-08 23:50:37 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:50:37 - INFO - Received 0 updates
+2025-03-08 23:50:37 - INFO - Waiting for updates...
+2025-03-08 23:51:07 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:51:07 - INFO - Received 0 updates
+2025-03-08 23:51:07 - INFO - Waiting for updates...
+2025-03-08 23:51:37 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:51:37 - INFO - Received 0 updates
+2025-03-08 23:51:37 - INFO - Waiting for updates...
+2025-03-08 23:52:08 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:52:08 - INFO - Received 0 updates
+2025-03-08 23:52:08 - INFO - Waiting for updates...
+2025-03-08 23:52:38 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:52:38 - INFO - Received 0 updates
+2025-03-08 23:52:38 - INFO - Waiting for updates...
+2025-03-08 23:53:08 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:53:08 - INFO - Received 0 updates
+2025-03-08 23:53:08 - INFO - Waiting for updates...
+2025-03-08 23:53:38 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:53:38 - INFO - Received 0 updates
+2025-03-08 23:53:38 - INFO - Waiting for updates...
+2025-03-08 23:54:09 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:54:09 - INFO - Received 0 updates
+2025-03-08 23:54:09 - INFO - Waiting for updates...
+2025-03-08 23:54:39 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:54:39 - INFO - Received 0 updates
+2025-03-08 23:54:39 - INFO - Waiting for updates...
+2025-03-08 23:55:09 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:55:09 - INFO - Received 0 updates
+2025-03-08 23:55:09 - INFO - Waiting for updates...
+2025-03-08 23:55:39 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:55:39 - INFO - Received 0 updates
+2025-03-08 23:55:39 - INFO - Waiting for updates...
+2025-03-08 23:56:10 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:56:10 - INFO - Received 0 updates
+2025-03-08 23:56:10 - INFO - Waiting for updates...
+2025-03-08 23:56:40 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:56:40 - INFO - Received 0 updates
+2025-03-08 23:56:40 - INFO - Waiting for updates...
+2025-03-08 23:57:10 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:57:10 - INFO - Received 0 updates
+2025-03-08 23:57:10 - INFO - Waiting for updates...
+2025-03-08 23:57:40 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:57:40 - INFO - Received 0 updates
+2025-03-08 23:57:40 - INFO - Waiting for updates...
+2025-03-08 23:58:10 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:58:10 - INFO - Received 0 updates
+2025-03-08 23:58:10 - INFO - Waiting for updates...
+2025-03-08 23:58:40 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:58:40 - INFO - Received 0 updates
+2025-03-08 23:58:40 - INFO - Waiting for updates...
+2025-03-08 23:59:11 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:59:11 - INFO - Received 0 updates
+2025-03-08 23:59:11 - INFO - Waiting for updates...
+2025-03-08 23:59:41 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-08 23:59:41 - INFO - Received 0 updates
+2025-03-08 23:59:41 - INFO - Waiting for updates...
+2025-03-09 00:00:11 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 00:00:11 - INFO - Received 0 updates
+2025-03-09 00:00:11 - INFO - Waiting for updates...
+2025-03-09 00:00:41 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 00:00:41 - INFO - Received 0 updates
+2025-03-09 00:00:41 - INFO - Waiting for updates...
+2025-03-09 00:01:11 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 00:01:11 - INFO - Received 0 updates
+2025-03-09 00:01:11 - INFO - Waiting for updates...
+2025-03-09 00:01:42 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 00:01:42 - INFO - Received 0 updates
+2025-03-09 00:01:42 - INFO - Waiting for updates...
+2025-03-09 00:02:12 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 00:02:12 - INFO - Received 0 updates
+2025-03-09 00:02:12 - INFO - Waiting for updates...
+2025-03-09 00:02:42 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 00:02:42 - INFO - Received 0 updates
+2025-03-09 00:02:42 - INFO - Waiting for updates...
+2025-03-09 00:03:12 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 00:03:12 - INFO - Received 0 updates
+2025-03-09 00:03:12 - INFO - Waiting for updates...
+2025-03-09 00:03:42 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 00:03:42 - INFO - Received 0 updates
+2025-03-09 00:03:42 - INFO - Waiting for updates...
+2025-03-09 00:04:13 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 00:04:13 - INFO - Received 0 updates
+2025-03-09 00:04:13 - INFO - Waiting for updates...
+2025-03-09 00:04:43 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 00:04:43 - INFO - Received 0 updates
+2025-03-09 00:04:43 - INFO - Waiting for updates...
+2025-03-09 00:05:13 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 00:05:13 - INFO - Received 0 updates
+2025-03-09 00:05:13 - INFO - Waiting for updates...
+2025-03-09 00:05:43 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 00:05:43 - INFO - Received 0 updates
+2025-03-09 00:05:43 - INFO - Waiting for updates...
+2025-03-09 00:06:13 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 00:06:13 - INFO - Received 0 updates
+2025-03-09 00:06:13 - INFO - Waiting for updates...
+2025-03-09 00:06:44 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 00:06:44 - INFO - Received 0 updates
+2025-03-09 00:06:44 - INFO - Waiting for updates...
+2025-03-09 08:59:25 - ERROR - Error in update loop: Timed out
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Python312\Lib\site-packages\httpx\_transports\default.py", line 394, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpcore\_async\connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "C:\Python312\Lib\site-packages\httpcore\_async\connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpcore\_async\connection.py", line 103, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpcore\_async\http11.py", line 136, in handle_async_request
+    raise exc
+  File "C:\Python312\Lib\site-packages\httpcore\_async\http11.py", line 106, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpcore\_async\http11.py", line 177, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpcore\_async\http11.py", line 217, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpcore\_backends\anyio.py", line 32, in read
+    with map_exceptions(exc_map):
+  File "C:\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Python312\Lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\telegram\request\_httpxrequest.py", line 293, in do_request
+    res = await self._client.request(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_client.py", line 1629, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_client.py", line 1657, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_client.py", line 1694, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_client.py", line 1730, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_transports\default.py", line 393, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Python312\Lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\TGOBSYNC\main.py", line 300, in run_bot
+    updates = await app.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\telegram\ext\_extbot.py", line 650, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\telegram\_bot.py", line 4480, in get_updates
+    await self._post(
+  File "C:\Python312\Lib\site-packages\telegram\_bot.py", line 619, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\telegram\ext\_extbot.py", line 354, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\telegram\_bot.py", line 648, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\telegram\request\_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\telegram\request\_baserequest.py", line 334, in _request_wrapper
+    code, payload = await self.do_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\telegram\request\_httpxrequest.py", line 310, in do_request
+    raise TimedOut from err
+telegram.error.TimedOut: Timed out
+2025-03-09 08:59:31 - INFO - Waiting for updates...
+2025-03-09 09:00:01 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:00:01 - INFO - Received 0 updates
+2025-03-09 09:00:01 - INFO - Waiting for updates...
+2025-03-09 09:00:33 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:00:33 - INFO - Received 0 updates
+2025-03-09 09:00:33 - INFO - Waiting for updates...
+2025-03-09 09:01:03 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:01:03 - INFO - Received 0 updates
+2025-03-09 09:01:03 - INFO - Waiting for updates...
+2025-03-09 09:01:33 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:01:33 - INFO - Received 0 updates
+2025-03-09 09:01:33 - INFO - Waiting for updates...
+2025-03-09 09:02:03 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:02:03 - INFO - Received 0 updates
+2025-03-09 09:02:03 - INFO - Waiting for updates...
+2025-03-09 09:02:33 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:02:33 - INFO - Received 0 updates
+2025-03-09 09:02:33 - INFO - Waiting for updates...
+2025-03-09 09:03:03 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:03:03 - INFO - Received 0 updates
+2025-03-09 09:03:03 - INFO - Waiting for updates...
+2025-03-09 09:03:34 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:03:34 - INFO - Received 0 updates
+2025-03-09 09:03:34 - INFO - Waiting for updates...
+2025-03-09 09:04:04 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:04:04 - INFO - Received 0 updates
+2025-03-09 09:04:04 - INFO - Waiting for updates...
+2025-03-09 09:04:34 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:04:34 - INFO - Received 0 updates
+2025-03-09 09:04:34 - INFO - Waiting for updates...
+2025-03-09 09:05:04 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:05:04 - INFO - Received 0 updates
+2025-03-09 09:05:04 - INFO - Waiting for updates...
+2025-03-09 09:05:34 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:05:34 - INFO - Received 0 updates
+2025-03-09 09:05:34 - INFO - Waiting for updates...
+2025-03-09 09:06:05 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:06:05 - INFO - Received 0 updates
+2025-03-09 09:06:05 - INFO - Waiting for updates...
+2025-03-09 09:06:35 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:06:35 - INFO - Received 0 updates
+2025-03-09 09:06:35 - INFO - Waiting for updates...
+2025-03-09 09:07:05 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:07:05 - INFO - Received 0 updates
+2025-03-09 09:07:05 - INFO - Waiting for updates...
+2025-03-09 09:07:35 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:07:35 - INFO - Received 0 updates
+2025-03-09 09:07:35 - INFO - Waiting for updates...
+2025-03-09 09:08:05 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:08:05 - INFO - Received 0 updates
+2025-03-09 09:08:05 - INFO - Waiting for updates...
+2025-03-09 09:08:36 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:08:36 - INFO - Received 0 updates
+2025-03-09 09:08:36 - INFO - Waiting for updates...
+2025-03-09 09:08:58 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:08:58 - INFO - Received 1 updates
+2025-03-09 09:08:58 - INFO - Processing update ID: 69211682
+2025-03-09 09:08:58 - INFO - update_pc command received
+2025-03-09 09:08:58 - INFO - Starting process_update
+2025-03-09 09:08:58 - INFO - Getting content for -4757217272. Messages: 11, Images: 1
+2025-03-09 09:08:58 - INFO - Processing update with 11 text messages and 1 images
+2025-03-09 09:08:58 - INFO - Message in buffer: Today , I was fully out of class, I was roaming without a proper job at 2025-03-07 18:32:41+00:00
+2025-03-09 09:08:58 - INFO - Message in buffer: She was too depressed today, ive never seen her being like this
+I tried my best to get it out of her at 2025-03-07 18:33:09+00:00
+2025-03-09 09:08:58 - INFO - Message in buffer: I couldn't at 2025-03-07 18:33:12+00:00
+2025-03-09 09:08:58 - INFO - Message in buffer: So i asked her when she'll go home at 2025-03-07 18:33:18+00:00
+2025-03-09 09:08:58 - INFO - Message in buffer: She said 3:20 because she has to go to hospital , so I said I'll come with her and she said "I'll ask my parents and if they agree I'll let you come" that was hurtful at 2025-03-07 18:34:22+00:00
+2025-03-09 09:08:58 - INFO - Message in buffer: But I still went with her, i was there with her till the end
+She cried and we spoke at 2025-03-07 18:34:41+00:00
+2025-03-09 09:08:58 - INFO - Message in buffer: She had misunderstood many things at 2025-03-07 18:34:48+00:00
+2025-03-09 09:08:58 - INFO - Message in buffer: After fixing we had a great time at 2025-03-07 18:34:52+00:00
+2025-03-09 09:08:58 - INFO - Message in buffer: And then she left home at 2025-03-07 18:35:02+00:00
+2025-03-09 09:08:58 - INFO - Message in buffer: Goodnight at 2025-03-07 22:33:50+00:00
+2025-03-09 09:08:58 - INFO - Message in buffer: And we once again spoke for 1.45 hours today. at 2025-03-07 22:33:50+00:00
+2025-03-09 09:08:58 - INFO - Grouping message for date 2025-03-08: Today , I was fully out of class, I was roaming without a proper job
+2025-03-09 09:08:58 - INFO - Grouping message for date 2025-03-08: She was too depressed today, ive never seen her being like this
+I tried my best to get it out of her
+2025-03-09 09:08:58 - INFO - Grouping message for date 2025-03-08: I couldn't
+2025-03-09 09:08:58 - INFO - Grouping message for date 2025-03-08: So i asked her when she'll go home
+2025-03-09 09:08:58 - INFO - Grouping message for date 2025-03-08: She said 3:20 because she has to go to hospital , so I said I'll come with her and she said "I'll ask my parents and if they agree I'll let you come" that was hurtful
+2025-03-09 09:08:58 - INFO - Grouping message for date 2025-03-08: But I still went with her, i was there with her till the end
+She cried and we spoke
+2025-03-09 09:08:58 - INFO - Grouping message for date 2025-03-08: She had misunderstood many things
+2025-03-09 09:08:58 - INFO - Grouping message for date 2025-03-08: After fixing we had a great time
+2025-03-09 09:08:58 - INFO - Grouping message for date 2025-03-08: And then she left home
+2025-03-09 09:08:58 - INFO - Grouping message for date 2025-03-08: Goodnight
+2025-03-09 09:08:58 - INFO - Grouping message for date 2025-03-08: And we once again spoke for 1.45 hours today.
+2025-03-09 09:08:59 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/sendMessage "HTTP/1.1 200 OK"
+2025-03-09 09:08:59 - INFO - Waiting for updates...
+2025-03-09 09:09:29 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:09:29 - INFO - Received 0 updates
+2025-03-09 09:09:29 - INFO - Waiting for updates...
+2025-03-09 09:09:59 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:09:59 - INFO - Received 0 updates
+2025-03-09 09:09:59 - INFO - Waiting for updates...
+2025-03-09 09:10:29 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:10:29 - INFO - Received 0 updates
+2025-03-09 09:10:29 - INFO - Waiting for updates...
+2025-03-09 09:10:59 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:10:59 - INFO - Received 0 updates
+2025-03-09 09:10:59 - INFO - Waiting for updates...
+2025-03-09 09:11:30 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:11:30 - INFO - Received 0 updates
+2025-03-09 09:11:30 - INFO - Waiting for updates...
+2025-03-09 09:12:00 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:12:00 - INFO - Received 0 updates
+2025-03-09 09:12:00 - INFO - Waiting for updates...
+2025-03-09 09:12:30 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:12:30 - INFO - Received 0 updates
+2025-03-09 09:12:30 - INFO - Waiting for updates...
+2025-03-09 09:13:00 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:13:00 - INFO - Received 0 updates
+2025-03-09 09:13:00 - INFO - Waiting for updates...
+2025-03-09 09:13:30 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:13:30 - INFO - Received 0 updates
+2025-03-09 09:13:30 - INFO - Waiting for updates...
+2025-03-09 09:14:01 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:14:01 - INFO - Received 0 updates
+2025-03-09 09:14:01 - INFO - Waiting for updates...
+2025-03-09 09:14:31 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:14:31 - INFO - Received 0 updates
+2025-03-09 09:14:31 - INFO - Waiting for updates...
+2025-03-09 09:15:01 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:15:01 - INFO - Received 0 updates
+2025-03-09 09:15:01 - INFO - Waiting for updates...
+2025-03-09 09:15:31 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:15:31 - INFO - Received 0 updates
+2025-03-09 09:15:31 - INFO - Waiting for updates...
+2025-03-09 09:16:01 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:16:01 - INFO - Received 0 updates
+2025-03-09 09:16:01 - INFO - Waiting for updates...
+2025-03-09 09:16:31 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:16:31 - INFO - Received 0 updates
+2025-03-09 09:16:31 - INFO - Waiting for updates...
+2025-03-09 09:17:02 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:17:02 - INFO - Received 0 updates
+2025-03-09 09:17:02 - INFO - Waiting for updates...
+2025-03-09 09:17:32 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:17:32 - INFO - Received 0 updates
+2025-03-09 09:17:32 - INFO - Waiting for updates...
+2025-03-09 09:18:02 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:18:02 - INFO - Received 0 updates
+2025-03-09 09:18:02 - INFO - Waiting for updates...
+2025-03-09 09:18:32 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:18:32 - INFO - Received 0 updates
+2025-03-09 09:18:32 - INFO - Waiting for updates...
+2025-03-09 09:19:02 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:19:02 - INFO - Received 0 updates
+2025-03-09 09:19:02 - INFO - Waiting for updates...
+2025-03-09 09:19:33 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:19:33 - INFO - Received 0 updates
+2025-03-09 09:19:33 - INFO - Waiting for updates...
+2025-03-09 09:20:03 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:20:03 - INFO - Received 0 updates
+2025-03-09 09:20:03 - INFO - Waiting for updates...
+2025-03-09 09:20:33 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:20:33 - INFO - Received 0 updates
+2025-03-09 09:20:33 - INFO - Waiting for updates...
+2025-03-09 09:21:03 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:21:03 - INFO - Received 0 updates
+2025-03-09 09:21:03 - INFO - Waiting for updates...
+2025-03-09 09:21:33 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:21:33 - INFO - Received 0 updates
+2025-03-09 09:21:33 - INFO - Waiting for updates...
+2025-03-09 09:22:04 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:22:04 - INFO - Received 0 updates
+2025-03-09 09:22:04 - INFO - Waiting for updates...
+2025-03-09 09:22:34 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:22:34 - INFO - Received 0 updates
+2025-03-09 09:22:34 - INFO - Waiting for updates...
+2025-03-09 09:23:04 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:23:04 - INFO - Received 0 updates
+2025-03-09 09:23:04 - INFO - Waiting for updates...
+2025-03-09 09:23:34 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:23:34 - INFO - Received 0 updates
+2025-03-09 09:23:34 - INFO - Waiting for updates...
+2025-03-09 09:24:04 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:24:04 - INFO - Received 0 updates
+2025-03-09 09:24:04 - INFO - Waiting for updates...
+2025-03-09 09:24:34 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:24:34 - INFO - Received 0 updates
+2025-03-09 09:24:34 - INFO - Waiting for updates...
+2025-03-09 09:25:05 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:25:05 - INFO - Received 0 updates
+2025-03-09 09:25:05 - INFO - Waiting for updates...
+2025-03-09 09:25:35 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:25:35 - INFO - Received 0 updates
+2025-03-09 09:25:35 - INFO - Waiting for updates...
+2025-03-09 09:26:05 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:26:05 - INFO - Received 0 updates
+2025-03-09 09:26:05 - INFO - Waiting for updates...
+2025-03-09 09:26:35 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:26:35 - INFO - Received 0 updates
+2025-03-09 09:26:35 - INFO - Waiting for updates...
+2025-03-09 09:27:05 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:27:05 - INFO - Received 0 updates
+2025-03-09 09:27:05 - INFO - Waiting for updates...
+2025-03-09 09:27:36 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:27:36 - INFO - Received 0 updates
+2025-03-09 09:27:36 - INFO - Waiting for updates...
+2025-03-09 09:28:06 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:28:06 - INFO - Received 0 updates
+2025-03-09 09:28:06 - INFO - Waiting for updates...
+2025-03-09 09:28:36 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:28:36 - INFO - Received 0 updates
+2025-03-09 09:28:36 - INFO - Waiting for updates...
+2025-03-09 09:29:06 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:29:06 - INFO - Received 0 updates
+2025-03-09 09:29:06 - INFO - Waiting for updates...
+2025-03-09 09:29:36 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:29:36 - INFO - Received 0 updates
+2025-03-09 09:29:36 - INFO - Waiting for updates...
+2025-03-09 09:30:06 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:30:06 - INFO - Received 0 updates
+2025-03-09 09:30:06 - INFO - Waiting for updates...
+2025-03-09 09:30:37 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:30:37 - INFO - Received 0 updates
+2025-03-09 09:30:37 - INFO - Waiting for updates...
+2025-03-09 09:31:07 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:31:07 - INFO - Received 0 updates
+2025-03-09 09:31:07 - INFO - Waiting for updates...
+2025-03-09 09:31:37 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:31:37 - INFO - Received 0 updates
+2025-03-09 09:31:37 - INFO - Waiting for updates...
+2025-03-09 09:32:07 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:32:07 - INFO - Received 0 updates
+2025-03-09 09:32:07 - INFO - Waiting for updates...
+2025-03-09 09:32:37 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:32:37 - INFO - Received 0 updates
+2025-03-09 09:32:37 - INFO - Waiting for updates...
+2025-03-09 09:33:07 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:33:07 - INFO - Received 0 updates
+2025-03-09 09:33:07 - INFO - Waiting for updates...
+2025-03-09 09:33:38 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:33:38 - INFO - Received 0 updates
+2025-03-09 09:33:38 - INFO - Waiting for updates...
+2025-03-09 09:34:08 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:34:08 - INFO - Received 0 updates
+2025-03-09 09:34:08 - INFO - Waiting for updates...
+2025-03-09 09:34:38 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:34:38 - INFO - Received 0 updates
+2025-03-09 09:34:38 - INFO - Waiting for updates...
+2025-03-09 09:35:08 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:35:08 - INFO - Received 0 updates
+2025-03-09 09:35:08 - INFO - Waiting for updates...
+2025-03-09 09:35:38 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:35:38 - INFO - Received 0 updates
+2025-03-09 09:35:38 - INFO - Waiting for updates...
+2025-03-09 09:36:08 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:36:08 - INFO - Received 0 updates
+2025-03-09 09:36:08 - INFO - Waiting for updates...
+2025-03-09 09:36:39 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:36:39 - INFO - Received 0 updates
+2025-03-09 09:36:39 - INFO - Waiting for updates...
+2025-03-09 09:37:09 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:37:09 - INFO - Received 0 updates
+2025-03-09 09:37:09 - INFO - Waiting for updates...
+2025-03-09 09:37:39 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:37:39 - INFO - Received 0 updates
+2025-03-09 09:37:39 - INFO - Waiting for updates...
+2025-03-09 09:38:09 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:38:09 - INFO - Received 0 updates
+2025-03-09 09:38:09 - INFO - Waiting for updates...
+2025-03-09 09:38:39 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:38:39 - INFO - Received 0 updates
+2025-03-09 09:38:39 - INFO - Waiting for updates...
+2025-03-09 09:39:10 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:39:10 - INFO - Received 0 updates
+2025-03-09 09:39:10 - INFO - Waiting for updates...
+2025-03-09 09:39:40 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:39:40 - INFO - Received 0 updates
+2025-03-09 09:39:40 - INFO - Waiting for updates...
+2025-03-09 09:40:10 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:40:10 - INFO - Received 0 updates
+2025-03-09 09:40:10 - INFO - Waiting for updates...
+2025-03-09 09:40:40 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:40:40 - INFO - Received 0 updates
+2025-03-09 09:40:40 - INFO - Waiting for updates...
+2025-03-09 09:41:10 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:41:10 - INFO - Received 0 updates
+2025-03-09 09:41:10 - INFO - Waiting for updates...
+2025-03-09 09:41:40 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:41:40 - INFO - Received 0 updates
+2025-03-09 09:41:40 - INFO - Waiting for updates...
+2025-03-09 09:42:11 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:42:11 - INFO - Received 0 updates
+2025-03-09 09:42:11 - INFO - Waiting for updates...
+2025-03-09 09:42:41 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:42:41 - INFO - Received 0 updates
+2025-03-09 09:42:41 - INFO - Waiting for updates...
+2025-03-09 09:43:11 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:43:11 - INFO - Received 0 updates
+2025-03-09 09:43:11 - INFO - Waiting for updates...
+2025-03-09 09:43:41 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:43:41 - INFO - Received 0 updates
+2025-03-09 09:43:41 - INFO - Waiting for updates...
+2025-03-09 09:44:11 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:44:11 - INFO - Received 0 updates
+2025-03-09 09:44:11 - INFO - Waiting for updates...
+2025-03-09 09:44:41 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:44:41 - INFO - Received 0 updates
+2025-03-09 09:44:41 - INFO - Waiting for updates...
+2025-03-09 09:45:12 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:45:12 - INFO - Received 0 updates
+2025-03-09 09:45:12 - INFO - Waiting for updates...
+2025-03-09 09:45:42 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:45:42 - INFO - Received 0 updates
+2025-03-09 09:45:42 - INFO - Waiting for updates...
+2025-03-09 09:46:12 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:46:12 - INFO - Received 0 updates
+2025-03-09 09:46:12 - INFO - Waiting for updates...
+2025-03-09 09:46:42 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:46:42 - INFO - Received 0 updates
+2025-03-09 09:46:42 - INFO - Waiting for updates...
+2025-03-09 09:47:12 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:47:12 - INFO - Received 0 updates
+2025-03-09 09:47:12 - INFO - Waiting for updates...
+2025-03-09 09:47:43 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:47:43 - INFO - Received 0 updates
+2025-03-09 09:47:43 - INFO - Waiting for updates...
+2025-03-09 09:48:13 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:48:13 - INFO - Received 0 updates
+2025-03-09 09:48:13 - INFO - Waiting for updates...
+2025-03-09 09:48:43 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:48:43 - INFO - Received 0 updates
+2025-03-09 09:48:43 - INFO - Waiting for updates...
+2025-03-09 09:49:13 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:49:13 - INFO - Received 0 updates
+2025-03-09 09:49:13 - INFO - Waiting for updates...
+2025-03-09 09:49:43 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:49:43 - INFO - Received 0 updates
+2025-03-09 09:49:43 - INFO - Waiting for updates...
+2025-03-09 09:50:14 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:50:14 - INFO - Received 0 updates
+2025-03-09 09:50:14 - INFO - Waiting for updates...
+2025-03-09 09:50:44 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:50:44 - INFO - Received 0 updates
+2025-03-09 09:50:44 - INFO - Waiting for updates...
+2025-03-09 09:51:14 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:51:14 - INFO - Received 0 updates
+2025-03-09 09:51:14 - INFO - Waiting for updates...
+2025-03-09 09:51:44 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:51:44 - INFO - Received 0 updates
+2025-03-09 09:51:44 - INFO - Waiting for updates...
+2025-03-09 09:52:15 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:52:15 - INFO - Received 0 updates
+2025-03-09 09:52:15 - INFO - Waiting for updates...
+2025-03-09 09:52:45 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:52:45 - INFO - Received 0 updates
+2025-03-09 09:52:45 - INFO - Waiting for updates...
+2025-03-09 09:53:15 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:53:15 - INFO - Received 0 updates
+2025-03-09 09:53:15 - INFO - Waiting for updates...
+2025-03-09 09:53:45 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:53:45 - INFO - Received 0 updates
+2025-03-09 09:53:45 - INFO - Waiting for updates...
+2025-03-09 09:54:15 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:54:15 - INFO - Received 0 updates
+2025-03-09 09:54:15 - INFO - Waiting for updates...
+2025-03-09 09:54:45 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:54:45 - INFO - Received 0 updates
+2025-03-09 09:54:45 - INFO - Waiting for updates...
+2025-03-09 09:55:16 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:55:16 - INFO - Received 0 updates
+2025-03-09 09:55:16 - INFO - Waiting for updates...
+2025-03-09 09:55:46 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:55:46 - INFO - Received 0 updates
+2025-03-09 09:55:46 - INFO - Waiting for updates...
+2025-03-09 09:56:16 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:56:16 - INFO - Received 0 updates
+2025-03-09 09:56:16 - INFO - Waiting for updates...
+2025-03-09 09:56:46 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:56:46 - INFO - Received 0 updates
+2025-03-09 09:56:46 - INFO - Waiting for updates...
+2025-03-09 09:57:16 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:57:16 - INFO - Received 0 updates
+2025-03-09 09:57:16 - INFO - Waiting for updates...
+2025-03-09 09:57:47 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:57:47 - INFO - Received 0 updates
+2025-03-09 09:57:47 - INFO - Waiting for updates...
+2025-03-09 09:58:17 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:58:17 - INFO - Received 0 updates
+2025-03-09 09:58:17 - INFO - Waiting for updates...
+2025-03-09 09:58:47 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:58:47 - INFO - Received 0 updates
+2025-03-09 09:58:47 - INFO - Waiting for updates...
+2025-03-09 09:59:17 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:59:17 - INFO - Received 0 updates
+2025-03-09 09:59:17 - INFO - Waiting for updates...
+2025-03-09 09:59:47 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 09:59:47 - INFO - Received 0 updates
+2025-03-09 09:59:47 - INFO - Waiting for updates...
+2025-03-09 10:00:17 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:00:17 - INFO - Received 0 updates
+2025-03-09 10:00:17 - INFO - Waiting for updates...
+2025-03-09 10:00:48 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:00:48 - INFO - Received 0 updates
+2025-03-09 10:00:48 - INFO - Waiting for updates...
+2025-03-09 10:01:18 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:01:18 - INFO - Received 0 updates
+2025-03-09 10:01:18 - INFO - Waiting for updates...
+2025-03-09 10:01:48 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:01:48 - INFO - Received 0 updates
+2025-03-09 10:01:48 - INFO - Waiting for updates...
+2025-03-09 10:02:18 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:02:18 - INFO - Received 0 updates
+2025-03-09 10:02:18 - INFO - Waiting for updates...
+2025-03-09 10:02:48 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:02:48 - INFO - Received 0 updates
+2025-03-09 10:02:48 - INFO - Waiting for updates...
+2025-03-09 10:03:18 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:03:18 - INFO - Received 0 updates
+2025-03-09 10:03:18 - INFO - Waiting for updates...
+2025-03-09 10:03:49 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:03:49 - INFO - Received 0 updates
+2025-03-09 10:03:49 - INFO - Waiting for updates...
+2025-03-09 10:04:19 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:04:19 - INFO - Received 0 updates
+2025-03-09 10:04:19 - INFO - Waiting for updates...
+2025-03-09 10:04:49 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:04:49 - INFO - Received 0 updates
+2025-03-09 10:04:49 - INFO - Waiting for updates...
+2025-03-09 10:05:19 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:05:19 - INFO - Received 0 updates
+2025-03-09 10:05:19 - INFO - Waiting for updates...
+2025-03-09 10:05:49 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:05:49 - INFO - Received 0 updates
+2025-03-09 10:05:49 - INFO - Waiting for updates...
+2025-03-09 10:06:20 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:06:20 - INFO - Received 0 updates
+2025-03-09 10:06:20 - INFO - Waiting for updates...
+2025-03-09 10:06:50 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:06:50 - INFO - Received 0 updates
+2025-03-09 10:06:50 - INFO - Waiting for updates...
+2025-03-09 10:07:20 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:07:20 - INFO - Received 0 updates
+2025-03-09 10:07:20 - INFO - Waiting for updates...
+2025-03-09 10:07:50 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:07:50 - INFO - Received 0 updates
+2025-03-09 10:07:50 - INFO - Waiting for updates...
+2025-03-09 10:08:20 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:08:20 - INFO - Received 0 updates
+2025-03-09 10:08:20 - INFO - Waiting for updates...
+2025-03-09 10:08:50 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:08:50 - INFO - Received 0 updates
+2025-03-09 10:08:50 - INFO - Waiting for updates...
+2025-03-09 10:09:21 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:09:21 - INFO - Received 0 updates
+2025-03-09 10:09:21 - INFO - Waiting for updates...
+2025-03-09 10:09:51 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:09:51 - INFO - Received 0 updates
+2025-03-09 10:09:51 - INFO - Waiting for updates...
+2025-03-09 10:10:21 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:10:21 - INFO - Received 0 updates
+2025-03-09 10:10:21 - INFO - Waiting for updates...
+2025-03-09 10:10:51 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:10:51 - INFO - Received 0 updates
+2025-03-09 10:10:51 - INFO - Waiting for updates...
+2025-03-09 10:11:21 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:11:21 - INFO - Received 0 updates
+2025-03-09 10:11:21 - INFO - Waiting for updates...
+2025-03-09 10:11:52 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:11:52 - INFO - Received 0 updates
+2025-03-09 10:11:52 - INFO - Waiting for updates...
+2025-03-09 10:12:22 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:12:22 - INFO - Received 0 updates
+2025-03-09 10:12:22 - INFO - Waiting for updates...
+2025-03-09 10:12:52 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:12:52 - INFO - Received 0 updates
+2025-03-09 10:12:52 - INFO - Waiting for updates...
+2025-03-09 10:13:22 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:13:22 - INFO - Received 0 updates
+2025-03-09 10:13:22 - INFO - Waiting for updates...
+2025-03-09 10:13:52 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:13:52 - INFO - Received 0 updates
+2025-03-09 10:13:52 - INFO - Waiting for updates...
+2025-03-09 10:14:22 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:14:22 - INFO - Received 0 updates
+2025-03-09 10:14:22 - INFO - Waiting for updates...
+2025-03-09 10:14:53 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:14:53 - INFO - Received 0 updates
+2025-03-09 10:14:53 - INFO - Waiting for updates...
+2025-03-09 10:15:23 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:15:23 - INFO - Received 0 updates
+2025-03-09 10:15:23 - INFO - Waiting for updates...
+2025-03-09 10:15:53 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:15:53 - INFO - Received 0 updates
+2025-03-09 10:15:53 - INFO - Waiting for updates...
+2025-03-09 10:16:23 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:16:23 - INFO - Received 0 updates
+2025-03-09 10:16:23 - INFO - Waiting for updates...
+2025-03-09 10:16:53 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:16:53 - INFO - Received 0 updates
+2025-03-09 10:16:53 - INFO - Waiting for updates...
+2025-03-09 10:17:24 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:17:24 - INFO - Received 0 updates
+2025-03-09 10:17:24 - INFO - Waiting for updates...
+2025-03-09 10:17:54 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:17:54 - INFO - Received 0 updates
+2025-03-09 10:17:54 - INFO - Waiting for updates...
+2025-03-09 10:18:24 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:18:24 - INFO - Received 0 updates
+2025-03-09 10:18:24 - INFO - Waiting for updates...
+2025-03-09 10:18:54 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:18:54 - INFO - Received 0 updates
+2025-03-09 10:18:54 - INFO - Waiting for updates...
+2025-03-09 10:19:24 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:19:24 - INFO - Received 0 updates
+2025-03-09 10:19:24 - INFO - Waiting for updates...
+2025-03-09 10:19:54 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:19:54 - INFO - Received 0 updates
+2025-03-09 10:19:54 - INFO - Waiting for updates...
+2025-03-09 10:20:25 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:20:25 - INFO - Received 0 updates
+2025-03-09 10:20:25 - INFO - Waiting for updates...
+2025-03-09 10:20:55 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:20:55 - INFO - Received 0 updates
+2025-03-09 10:20:55 - INFO - Waiting for updates...
+2025-03-09 10:21:25 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:21:25 - INFO - Received 0 updates
+2025-03-09 10:21:25 - INFO - Waiting for updates...
+2025-03-09 10:21:55 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:21:55 - INFO - Received 0 updates
+2025-03-09 10:21:55 - INFO - Waiting for updates...
+2025-03-09 10:22:25 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:22:25 - INFO - Received 0 updates
+2025-03-09 10:22:25 - INFO - Waiting for updates...
+2025-03-09 10:22:55 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:22:55 - INFO - Received 0 updates
+2025-03-09 10:22:55 - INFO - Waiting for updates...
+2025-03-09 10:23:26 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:23:26 - INFO - Received 0 updates
+2025-03-09 10:23:26 - INFO - Waiting for updates...
+2025-03-09 10:23:56 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:23:56 - INFO - Received 0 updates
+2025-03-09 10:23:56 - INFO - Waiting for updates...
+2025-03-09 10:24:26 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:24:26 - INFO - Received 0 updates
+2025-03-09 10:24:26 - INFO - Waiting for updates...
+2025-03-09 10:24:56 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:24:56 - INFO - Received 0 updates
+2025-03-09 10:24:56 - INFO - Waiting for updates...
+2025-03-09 10:25:26 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:25:26 - INFO - Received 0 updates
+2025-03-09 10:25:26 - INFO - Waiting for updates...
+2025-03-09 10:25:57 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:25:57 - INFO - Received 0 updates
+2025-03-09 10:25:57 - INFO - Waiting for updates...
+2025-03-09 10:26:27 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:26:27 - INFO - Received 0 updates
+2025-03-09 10:26:27 - INFO - Waiting for updates...
+2025-03-09 10:26:57 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:26:57 - INFO - Received 0 updates
+2025-03-09 10:26:57 - INFO - Waiting for updates...
+2025-03-09 10:27:27 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:27:27 - INFO - Received 0 updates
+2025-03-09 10:27:27 - INFO - Waiting for updates...
+2025-03-09 10:27:57 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:27:57 - INFO - Received 0 updates
+2025-03-09 10:27:57 - INFO - Waiting for updates...
+2025-03-09 10:28:28 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:28:28 - INFO - Received 0 updates
+2025-03-09 10:28:28 - INFO - Waiting for updates...
+2025-03-09 10:28:58 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:28:58 - INFO - Received 0 updates
+2025-03-09 10:28:58 - INFO - Waiting for updates...
+2025-03-09 10:29:28 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:29:28 - INFO - Received 0 updates
+2025-03-09 10:29:28 - INFO - Waiting for updates...
+2025-03-09 10:29:58 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:29:58 - INFO - Received 0 updates
+2025-03-09 10:29:58 - INFO - Waiting for updates...
+2025-03-09 10:30:28 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:30:28 - INFO - Received 0 updates
+2025-03-09 10:30:28 - INFO - Waiting for updates...
+2025-03-09 10:30:58 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:30:58 - INFO - Received 0 updates
+2025-03-09 10:30:58 - INFO - Waiting for updates...
+2025-03-09 10:31:29 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:31:29 - INFO - Received 0 updates
+2025-03-09 10:31:29 - INFO - Waiting for updates...
+2025-03-09 10:31:59 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:31:59 - INFO - Received 0 updates
+2025-03-09 10:31:59 - INFO - Waiting for updates...
+2025-03-09 10:32:29 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:32:29 - INFO - Received 0 updates
+2025-03-09 10:32:29 - INFO - Waiting for updates...
+2025-03-09 10:32:59 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:32:59 - INFO - Received 0 updates
+2025-03-09 10:32:59 - INFO - Waiting for updates...
+2025-03-09 10:33:29 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:33:29 - INFO - Received 0 updates
+2025-03-09 10:33:29 - INFO - Waiting for updates...
+2025-03-09 10:34:00 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:34:00 - INFO - Received 0 updates
+2025-03-09 10:34:00 - INFO - Waiting for updates...
+2025-03-09 10:34:30 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:34:30 - INFO - Received 0 updates
+2025-03-09 10:34:30 - INFO - Waiting for updates...
+2025-03-09 10:35:00 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:35:00 - INFO - Received 0 updates
+2025-03-09 10:35:00 - INFO - Waiting for updates...
+2025-03-09 10:35:30 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:35:30 - INFO - Received 0 updates
+2025-03-09 10:35:30 - INFO - Waiting for updates...
+2025-03-09 10:36:00 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:36:00 - INFO - Received 0 updates
+2025-03-09 10:36:00 - INFO - Waiting for updates...
+2025-03-09 10:36:30 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:36:30 - INFO - Received 0 updates
+2025-03-09 10:36:30 - INFO - Waiting for updates...
+2025-03-09 10:37:01 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:37:01 - INFO - Received 0 updates
+2025-03-09 10:37:01 - INFO - Waiting for updates...
+2025-03-09 10:37:31 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:37:31 - INFO - Received 0 updates
+2025-03-09 10:37:31 - INFO - Waiting for updates...
+2025-03-09 10:38:01 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:38:01 - INFO - Received 0 updates
+2025-03-09 10:38:01 - INFO - Waiting for updates...
+2025-03-09 10:38:31 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:38:31 - INFO - Received 0 updates
+2025-03-09 10:38:31 - INFO - Waiting for updates...
+2025-03-09 10:39:01 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:39:01 - INFO - Received 0 updates
+2025-03-09 10:39:01 - INFO - Waiting for updates...
+2025-03-09 10:39:31 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:39:31 - INFO - Received 0 updates
+2025-03-09 10:39:31 - INFO - Waiting for updates...
+2025-03-09 10:40:02 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:40:02 - INFO - Received 0 updates
+2025-03-09 10:40:02 - INFO - Waiting for updates...
+2025-03-09 10:40:32 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:40:32 - INFO - Received 0 updates
+2025-03-09 10:40:32 - INFO - Waiting for updates...
+2025-03-09 10:41:02 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:41:02 - INFO - Received 0 updates
+2025-03-09 10:41:02 - INFO - Waiting for updates...
+2025-03-09 10:41:33 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:41:33 - INFO - Received 0 updates
+2025-03-09 10:41:33 - INFO - Waiting for updates...
+2025-03-09 10:42:03 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:42:03 - INFO - Received 0 updates
+2025-03-09 10:42:03 - INFO - Waiting for updates...
+2025-03-09 10:42:33 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:42:33 - INFO - Received 0 updates
+2025-03-09 10:42:33 - INFO - Waiting for updates...
+2025-03-09 10:43:03 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:43:03 - INFO - Received 0 updates
+2025-03-09 10:43:03 - INFO - Waiting for updates...
+2025-03-09 10:43:33 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:43:33 - INFO - Received 0 updates
+2025-03-09 10:43:33 - INFO - Waiting for updates...
+2025-03-09 10:44:04 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:44:04 - INFO - Received 0 updates
+2025-03-09 10:44:04 - INFO - Waiting for updates...
+2025-03-09 10:44:34 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:44:34 - INFO - Received 0 updates
+2025-03-09 10:44:34 - INFO - Waiting for updates...
+2025-03-09 10:45:04 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:45:04 - INFO - Received 0 updates
+2025-03-09 10:45:04 - INFO - Waiting for updates...
+2025-03-09 10:45:34 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:45:34 - INFO - Received 0 updates
+2025-03-09 10:45:34 - INFO - Waiting for updates...
+2025-03-09 10:46:04 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:46:04 - INFO - Received 0 updates
+2025-03-09 10:46:04 - INFO - Waiting for updates...
+2025-03-09 10:46:35 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:46:35 - INFO - Received 0 updates
+2025-03-09 10:46:35 - INFO - Waiting for updates...
+2025-03-09 10:47:05 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:47:05 - INFO - Received 0 updates
+2025-03-09 10:47:05 - INFO - Waiting for updates...
+2025-03-09 10:47:35 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:47:35 - INFO - Received 0 updates
+2025-03-09 10:47:35 - INFO - Waiting for updates...
+2025-03-09 10:48:05 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:48:05 - INFO - Received 0 updates
+2025-03-09 10:48:05 - INFO - Waiting for updates...
+2025-03-09 10:48:35 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:48:35 - INFO - Received 0 updates
+2025-03-09 10:48:35 - INFO - Waiting for updates...
+2025-03-09 10:49:06 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:49:06 - INFO - Received 0 updates
+2025-03-09 10:49:06 - INFO - Waiting for updates...
+2025-03-09 10:49:36 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:49:36 - INFO - Received 0 updates
+2025-03-09 10:49:36 - INFO - Waiting for updates...
+2025-03-09 10:50:06 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:50:06 - INFO - Received 0 updates
+2025-03-09 10:50:06 - INFO - Waiting for updates...
+2025-03-09 10:50:36 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:50:36 - INFO - Received 0 updates
+2025-03-09 10:50:36 - INFO - Waiting for updates...
+2025-03-09 10:51:06 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:51:06 - INFO - Received 0 updates
+2025-03-09 10:51:06 - INFO - Waiting for updates...
+2025-03-09 10:51:37 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:51:37 - INFO - Received 0 updates
+2025-03-09 10:51:37 - INFO - Waiting for updates...
+2025-03-09 10:52:07 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:52:07 - INFO - Received 0 updates
+2025-03-09 10:52:07 - INFO - Waiting for updates...
+2025-03-09 10:52:37 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:52:37 - INFO - Received 0 updates
+2025-03-09 10:52:37 - INFO - Waiting for updates...
+2025-03-09 10:53:07 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:53:07 - INFO - Received 0 updates
+2025-03-09 10:53:07 - INFO - Waiting for updates...
+2025-03-09 10:53:37 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:53:37 - INFO - Received 0 updates
+2025-03-09 10:53:37 - INFO - Waiting for updates...
+2025-03-09 10:54:08 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:54:08 - INFO - Received 0 updates
+2025-03-09 10:54:08 - INFO - Waiting for updates...
+2025-03-09 10:54:38 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:54:38 - INFO - Received 0 updates
+2025-03-09 10:54:38 - INFO - Waiting for updates...
+2025-03-09 10:55:08 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:55:08 - INFO - Received 0 updates
+2025-03-09 10:55:08 - INFO - Waiting for updates...
+2025-03-09 10:55:38 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:55:38 - INFO - Received 0 updates
+2025-03-09 10:55:38 - INFO - Waiting for updates...
+2025-03-09 10:56:08 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:56:08 - INFO - Received 0 updates
+2025-03-09 10:56:08 - INFO - Waiting for updates...
+2025-03-09 10:56:39 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:56:39 - INFO - Received 0 updates
+2025-03-09 10:56:39 - INFO - Waiting for updates...
+2025-03-09 10:57:09 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:57:09 - INFO - Received 0 updates
+2025-03-09 10:57:09 - INFO - Waiting for updates...
+2025-03-09 10:57:39 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:57:39 - INFO - Received 0 updates
+2025-03-09 10:57:39 - INFO - Waiting for updates...
+2025-03-09 10:58:09 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:58:09 - INFO - Received 0 updates
+2025-03-09 10:58:09 - INFO - Waiting for updates...
+2025-03-09 10:58:39 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:58:39 - INFO - Received 0 updates
+2025-03-09 10:58:39 - INFO - Waiting for updates...
+2025-03-09 10:59:10 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:59:10 - INFO - Received 0 updates
+2025-03-09 10:59:10 - INFO - Waiting for updates...
+2025-03-09 10:59:40 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 10:59:40 - INFO - Received 0 updates
+2025-03-09 10:59:40 - INFO - Waiting for updates...
+2025-03-09 11:00:10 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:00:10 - INFO - Received 0 updates
+2025-03-09 11:00:10 - INFO - Waiting for updates...
+2025-03-09 11:00:40 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:00:40 - INFO - Received 0 updates
+2025-03-09 11:00:40 - INFO - Waiting for updates...
+2025-03-09 11:01:11 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:01:11 - INFO - Received 0 updates
+2025-03-09 11:01:11 - INFO - Waiting for updates...
+2025-03-09 11:01:41 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:01:41 - INFO - Received 0 updates
+2025-03-09 11:01:41 - INFO - Waiting for updates...
+2025-03-09 11:02:11 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:02:11 - INFO - Received 0 updates
+2025-03-09 11:02:11 - INFO - Waiting for updates...
+2025-03-09 11:02:41 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:02:41 - INFO - Received 0 updates
+2025-03-09 11:02:41 - INFO - Waiting for updates...
+2025-03-09 11:03:11 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:03:11 - INFO - Received 0 updates
+2025-03-09 11:03:11 - INFO - Waiting for updates...
+2025-03-09 11:03:42 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:03:42 - INFO - Received 0 updates
+2025-03-09 11:03:42 - INFO - Waiting for updates...
+2025-03-09 11:04:12 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:04:12 - INFO - Received 0 updates
+2025-03-09 11:04:12 - INFO - Waiting for updates...
+2025-03-09 11:04:42 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:04:42 - INFO - Received 0 updates
+2025-03-09 11:04:42 - INFO - Waiting for updates...
+2025-03-09 11:05:12 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:05:12 - INFO - Received 0 updates
+2025-03-09 11:05:12 - INFO - Waiting for updates...
+2025-03-09 11:05:42 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:05:42 - INFO - Received 0 updates
+2025-03-09 11:05:42 - INFO - Waiting for updates...
+2025-03-09 11:06:13 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:06:13 - INFO - Received 0 updates
+2025-03-09 11:06:13 - INFO - Waiting for updates...
+2025-03-09 11:06:44 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:06:44 - INFO - Received 0 updates
+2025-03-09 11:06:44 - INFO - Waiting for updates...
+2025-03-09 11:07:14 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:07:14 - INFO - Received 0 updates
+2025-03-09 11:07:14 - INFO - Waiting for updates...
+2025-03-09 11:07:44 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:07:44 - INFO - Received 0 updates
+2025-03-09 11:07:44 - INFO - Waiting for updates...
+2025-03-09 11:08:14 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:08:14 - INFO - Received 0 updates
+2025-03-09 11:08:14 - INFO - Waiting for updates...
+2025-03-09 11:08:44 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:08:44 - INFO - Received 0 updates
+2025-03-09 11:08:44 - INFO - Waiting for updates...
+2025-03-09 11:09:15 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:09:15 - INFO - Received 0 updates
+2025-03-09 11:09:15 - INFO - Waiting for updates...
+2025-03-09 11:09:45 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:09:45 - INFO - Received 0 updates
+2025-03-09 11:09:45 - INFO - Waiting for updates...
+2025-03-09 11:10:15 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:10:15 - INFO - Received 0 updates
+2025-03-09 11:10:15 - INFO - Waiting for updates...
+2025-03-09 11:10:45 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:10:45 - INFO - Received 0 updates
+2025-03-09 11:10:45 - INFO - Waiting for updates...
+2025-03-09 11:11:15 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:11:15 - INFO - Received 0 updates
+2025-03-09 11:11:15 - INFO - Waiting for updates...
+2025-03-09 11:11:46 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:11:46 - INFO - Received 0 updates
+2025-03-09 11:11:46 - INFO - Waiting for updates...
+2025-03-09 11:12:16 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:12:16 - INFO - Received 0 updates
+2025-03-09 11:12:16 - INFO - Waiting for updates...
+2025-03-09 11:12:46 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:12:46 - INFO - Received 0 updates
+2025-03-09 11:12:46 - INFO - Waiting for updates...
+2025-03-09 11:13:16 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:13:16 - INFO - Received 0 updates
+2025-03-09 11:13:16 - INFO - Waiting for updates...
+2025-03-09 11:13:46 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:13:46 - INFO - Received 0 updates
+2025-03-09 11:13:46 - INFO - Waiting for updates...
+2025-03-09 11:14:17 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:14:17 - INFO - Received 0 updates
+2025-03-09 11:14:17 - INFO - Waiting for updates...
+2025-03-09 11:14:47 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:14:47 - INFO - Received 0 updates
+2025-03-09 11:14:47 - INFO - Waiting for updates...
+2025-03-09 11:15:17 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:15:17 - INFO - Received 0 updates
+2025-03-09 11:15:17 - INFO - Waiting for updates...
+2025-03-09 11:15:47 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:15:47 - INFO - Received 0 updates
+2025-03-09 11:15:47 - INFO - Waiting for updates...
+2025-03-09 11:16:18 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:16:18 - INFO - Received 0 updates
+2025-03-09 11:16:18 - INFO - Waiting for updates...
+2025-03-09 11:16:48 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:16:48 - INFO - Received 0 updates
+2025-03-09 11:16:48 - INFO - Waiting for updates...
+2025-03-09 11:17:18 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:17:18 - INFO - Received 0 updates
+2025-03-09 11:17:18 - INFO - Waiting for updates...
+2025-03-09 11:17:48 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:17:48 - INFO - Received 0 updates
+2025-03-09 11:17:48 - INFO - Waiting for updates...
+2025-03-09 11:18:18 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:18:18 - INFO - Received 0 updates
+2025-03-09 11:18:18 - INFO - Waiting for updates...
+2025-03-09 11:18:49 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:18:49 - INFO - Received 0 updates
+2025-03-09 11:18:49 - INFO - Waiting for updates...
+2025-03-09 11:19:19 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:19:19 - INFO - Received 0 updates
+2025-03-09 11:19:19 - INFO - Waiting for updates...
+2025-03-09 11:19:49 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:19:49 - INFO - Received 0 updates
+2025-03-09 11:19:49 - INFO - Waiting for updates...
+2025-03-09 11:20:19 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:20:19 - INFO - Received 0 updates
+2025-03-09 11:20:19 - INFO - Waiting for updates...
+2025-03-09 11:20:49 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:20:49 - INFO - Received 0 updates
+2025-03-09 11:20:49 - INFO - Waiting for updates...
+2025-03-09 11:21:20 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:21:20 - INFO - Received 0 updates
+2025-03-09 11:21:20 - INFO - Waiting for updates...
+2025-03-09 11:21:50 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:21:50 - INFO - Received 0 updates
+2025-03-09 11:21:50 - INFO - Waiting for updates...
+2025-03-09 11:22:20 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:22:20 - INFO - Received 0 updates
+2025-03-09 11:22:20 - INFO - Waiting for updates...
+2025-03-09 11:22:50 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:22:50 - INFO - Received 0 updates
+2025-03-09 11:22:50 - INFO - Waiting for updates...
+2025-03-09 11:23:20 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:23:20 - INFO - Received 0 updates
+2025-03-09 11:23:20 - INFO - Waiting for updates...
+2025-03-09 11:23:51 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:23:51 - INFO - Received 0 updates
+2025-03-09 11:23:51 - INFO - Waiting for updates...
+2025-03-09 11:24:21 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:24:21 - INFO - Received 0 updates
+2025-03-09 11:24:21 - INFO - Waiting for updates...
+2025-03-09 11:24:51 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:24:51 - INFO - Received 0 updates
+2025-03-09 11:24:51 - INFO - Waiting for updates...
+2025-03-09 11:25:21 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:25:21 - INFO - Received 0 updates
+2025-03-09 11:25:21 - INFO - Waiting for updates...
+2025-03-09 11:25:51 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:25:51 - INFO - Received 0 updates
+2025-03-09 11:25:51 - INFO - Waiting for updates...
+2025-03-09 11:26:22 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:26:22 - INFO - Received 0 updates
+2025-03-09 11:26:22 - INFO - Waiting for updates...
+2025-03-09 11:26:52 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:26:52 - INFO - Received 0 updates
+2025-03-09 11:26:52 - INFO - Waiting for updates...
+2025-03-09 11:27:22 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:27:22 - INFO - Received 0 updates
+2025-03-09 11:27:22 - INFO - Waiting for updates...
+2025-03-09 11:27:52 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:27:52 - INFO - Received 0 updates
+2025-03-09 11:27:52 - INFO - Waiting for updates...
+2025-03-09 11:28:23 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:28:23 - INFO - Received 0 updates
+2025-03-09 11:28:23 - INFO - Waiting for updates...
+2025-03-09 11:28:53 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:28:53 - INFO - Received 0 updates
+2025-03-09 11:28:53 - INFO - Waiting for updates...
+2025-03-09 11:29:23 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:29:23 - INFO - Received 0 updates
+2025-03-09 11:29:23 - INFO - Waiting for updates...
+2025-03-09 11:29:53 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:29:53 - INFO - Received 0 updates
+2025-03-09 11:29:53 - INFO - Waiting for updates...
+2025-03-09 11:30:23 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:30:23 - INFO - Received 0 updates
+2025-03-09 11:30:23 - INFO - Waiting for updates...
+2025-03-09 11:30:54 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:30:54 - INFO - Received 0 updates
+2025-03-09 11:30:54 - INFO - Waiting for updates...
+2025-03-09 11:31:24 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:31:24 - INFO - Received 0 updates
+2025-03-09 11:31:24 - INFO - Waiting for updates...
+2025-03-09 11:31:54 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:31:54 - INFO - Received 0 updates
+2025-03-09 11:31:54 - INFO - Waiting for updates...
+2025-03-09 11:32:24 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:32:24 - INFO - Received 0 updates
+2025-03-09 11:32:24 - INFO - Waiting for updates...
+2025-03-09 11:32:55 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:32:55 - INFO - Received 0 updates
+2025-03-09 11:32:55 - INFO - Waiting for updates...
+2025-03-09 11:33:25 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:33:25 - INFO - Received 0 updates
+2025-03-09 11:33:25 - INFO - Waiting for updates...
+2025-03-09 11:33:55 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:33:55 - INFO - Received 0 updates
+2025-03-09 11:33:55 - INFO - Waiting for updates...
+2025-03-09 11:34:25 - INFO - HTTP Request: POST https://api.telegram.org/bot7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q/getUpdates "HTTP/1.1 200 OK"
+2025-03-09 11:34:25 - INFO - Received 0 updates
+2025-03-09 11:34:25 - INFO - Waiting for updates...
