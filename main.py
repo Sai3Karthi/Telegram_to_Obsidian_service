@@ -12,30 +12,44 @@ from telegram.error import RetryAfter
 import pytz
 import sys
 
+# Import configuration
+try:
+    from config import BOT_TOKEN, GROUP_CHAT_ID, LOCAL_TIMEZONE, PC_FOLDER, MOBILE_FOLDER, BOT_LOG_FILE, SERVICE_LOG_FILE
+except ImportError:
+    print("Error: config.py not found. Please copy config.example.py to config.py and configure your settings.")
+    sys.exit(1)
+
 # Get local timezone
-local_tz = pytz.timezone('Asia/Kolkata')  # For India/IST
+local_tz = pytz.timezone(LOCAL_TIMEZONE)
 
 class LocalTimeFormatter(logging.Formatter):
     def formatTime(self, record, datefmt=None):
-        ct = datetime.now()
+        ct = datetime.now(local_tz)
         if datefmt:
             s = ct.strftime(datefmt)
         else:
             s = ct.strftime("%Y-%m-%d %H:%M:%S")
         return s
 
+# Create logs directory if it doesn't exist
+log_dir = Path(BOT_LOG_FILE).parent
+log_dir.mkdir(parents=True, exist_ok=True)
+
 # Update the logging setup
 logger = logging.getLogger()
-handler = logging.FileHandler('telegram_bot.log')
+# Clear existing handlers to avoid duplicates
+for handler in logger.handlers[:]:
+    logger.removeHandler(handler)
+
+handler = logging.FileHandler(BOT_LOG_FILE)
 formatter = LocalTimeFormatter('%(asctime)s - %(levelname)s - %(message)s')
 handler.setFormatter(formatter)
 logger.addHandler(handler)
 logger.setLevel(logging.INFO)
 
-TOKEN = '7675657512:AAFFqwYptEB7oTCKPgBisD51svkwJXFQY-Q'
-GROUP_ID = '-4757217272'
-PC_FOLDER = Path('E:/Vault/SaiLife/MyDiary')
-MOBILE_FOLDER = Path('/storage/emulated/0/Obsidian/SaiLife/MyDiary')
+# Convert string paths to Path objects
+PC_FOLDER = Path(PC_FOLDER)
+MOBILE_FOLDER = Path(MOBILE_FOLDER)
 
 class MessageBuffer:
     def __init__(self):
@@ -167,7 +181,7 @@ def update_md_file(text: List[dict], images: List[dict], folder: Path, message_d
         raise
 
 async def handle_message(update, context) -> None:
-    if str(update.message.chat_id) == GROUP_ID:
+    if str(update.message.chat_id) == GROUP_CHAT_ID:
         text = update.message.text
         timestamp = update.message.date
         
@@ -178,7 +192,7 @@ async def handle_message(update, context) -> None:
         buffer.add_message(update.message.chat_id, text, timestamp)
 
 async def handle_photo(update, context) -> None:
-    if str(update.message.chat_id) != GROUP_ID:
+    if str(update.message.chat_id) != GROUP_CHAT_ID:
         return
         
     photo = update.message.photo[-1]
@@ -186,11 +200,14 @@ async def handle_photo(update, context) -> None:
     filename = f"image_{datetime.now().strftime('%Y%m%d_%H%M%S')}.jpg"
     filepath = PC_FOLDER / 'attachments' / filename
     
+    # Create attachments directory if it doesn't exist
+    filepath.parent.mkdir(parents=True, exist_ok=True)
+    
     await file.download_to_drive(str(filepath))
     buffer.add_image(update.message.chat_id, str(filepath), update.message.date)
 
 async def process_update(update, context, folder: Path) -> None:
-    if str(update.message.chat_id) != GROUP_ID:
+    if str(update.message.chat_id) != GROUP_CHAT_ID:
         return
         
     try:
@@ -263,7 +280,7 @@ async def run_bot():
         
         # Test bot token first
         logging.info("Testing bot token...")
-        bot = Bot(TOKEN)
+        bot = Bot(BOT_TOKEN)
         try:
             me = await bot.get_me()
             logging.info(f"Bot connection successful - @{me.username}")
@@ -272,7 +289,7 @@ async def run_bot():
             raise
             
         logging.info("Initializing application...")
-        app = Application.builder().token(TOKEN).build()
+        app = Application.builder().token(BOT_TOKEN).build()
         
         logging.info("Creating directories...")
         (PC_FOLDER / 'attachments').mkdir(parents=True, exist_ok=True)
@@ -325,8 +342,11 @@ def start_bot():
     """Entry point for the Windows service"""
     try:
         # Set up logging
+        log_dir = Path(BOT_LOG_FILE).parent
+        log_dir.mkdir(parents=True, exist_ok=True)
+        
         logging.basicConfig(
-            filename='E:/TGOBSYNC/bot.log',
+            filename=BOT_LOG_FILE,
             level=logging.DEBUG,
             format='%(asctime)s - %(levelname)s - %(message)s'
         )
@@ -346,12 +366,16 @@ def start_bot():
 
 if __name__ == '__main__':
     try:
+        # Create logs directory
+        log_dir = Path(BOT_LOG_FILE).parent
+        log_dir.mkdir(parents=True, exist_ok=True)
+        
         # Set up logging to both file and console
         logging.basicConfig(
             level=logging.DEBUG,
             format='%(asctime)s - %(levelname)s - %(message)s',
             handlers=[
-                logging.FileHandler('telegram_bot.log', mode='w'),  # 'w' mode to start fresh
+                logging.FileHandler(BOT_LOG_FILE, mode='w'),  # 'w' mode to start fresh
                 logging.StreamHandler(sys.stdout)  # Print to console too
             ]
         )
@@ -359,8 +383,8 @@ if __name__ == '__main__':
         logging.info("=== Starting bot in direct mode ===")
         logging.info(f"Current directory: {os.getcwd()}")
         logging.info(f"Python version: {sys.version}")
-        logging.info(f"Bot token: {TOKEN}")
-        logging.info(f"Group ID: {GROUP_ID}")
+        logging.info(f"Bot token: {BOT_TOKEN[:10]}...") # Only show first 10 chars for security
+        logging.info(f"Group ID: {GROUP_CHAT_ID}")
         
         try:
             asyncio.run(run_bot())
